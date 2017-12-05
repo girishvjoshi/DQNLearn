@@ -1,2 +1,2 @@
 # DQNLearn
-# This Repository is for code for DQN implementation in Mattlab
+This Repository is for Matlab code for Deep Reinforcement Leanring Implementation
